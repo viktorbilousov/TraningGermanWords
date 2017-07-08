@@ -1,0 +1,208 @@
+
+* Type 1
+* ei -> ie -> ie
+
+bleiben blieb geblieben 
+leihen lieh geliehen 
+meiden mied gemieden 
+scheiden schied geschieden 
+scheinen schien geschienen 
+schreiben schrieb geschrieben 
+schreien schrie geschrien 
+schweigen schwieg geschwiegen 
+steigen stieg gestiegen 
+treiben trieb getrieben 
+verzeihen verzieh verziehen 
+weisen wies gewiesen 
+
+* Type 2
+* ei -> i -> i
+
+beißen biss gebissen 
+gleichen glich geglichen 
+gleiten glitt geglitten 
+greifen griff gegriffen 
+leiden litt gelitten 
+pfeifen pfiff gepfiffen 
+reißen riss gerissen 
+reiten ritt geritten 
+schneiden schnitt geschnitten 
+schreiten schritt geschritten 
+streichen strich gestrichen 
+streiten stritt gestritten 
+
+* Type 3
+* ie -> o -> o
+
+biegen bog gebogen 
+bieten bot geboten 
+fliegen flog geflogen 
+fliehen floh geflohen 
+fließen floss geflossen 
+frieren fror gefroren 
+gießen goss gegossen 
+genießen genoss genossen 
+kriechen kroch gekrochen 
+riechen roch gerochen 
+schieben schob geschoben 
+schießen schoss geschossen 
+schließen schloss geschlossen 
+verlieren verlor verloren 
+wiegen wog gewogen 
+ziehen zog gezogen 
+
+* Type 4
+* i -> a -> u
+
+binden band gebunden 
+dringen drang gedrungen 
+finden fand gefunden 
+gelingen gelang gelungen 
+klingen klang geklungen 
+singen sang gesungen 
+sinken sank gesunken 
+springen sprang gesprungen 
+trinken trank getrunken 
+verschwinden verschwand verschwunden 
+zwingen zwang gezwungen 
+
+* Type 5
+* i -> a -> o
+
+beginnen begann begonnen 
+gewinnen gewann gewonnen 
+schwimmen schwamm geschwommen 
+
+* Type 6
+* e -> a -> o
+
+befehlen (befiehlt) befahl befohlen 
+bergen (birgt) barg geborgen 
+bersten (birst) barst geborsten 
+brechen (bricht) brach gebrochen 
+erschrecken (erschrickt) erschrak erschrocken 
+gelten (gilt) galt gegolten 
+helfen (hilft) half geholfen 
+nehmen (nimmt) nahm genommen 
+sprechen (spricht) sprach gesprochen 
+stehlen (stielt) stahl gestohlen 
+sterben (stirbt) starb gestorben 
+treffen (trifft) traf getroffen 
+werben (wirbt) warb geworben 
+werfen (wirft) warf geworfen 
+
+* Type 7
+* ä -> a -> o
+
+gebären gebar geboren 
+
+* Type 8
+* e -> a -> e
+
+essen (isst) aß gegessen 
+geben (gibt) gab gegeben 
+genesen genas genesen 
+geschehen (geschieht) geschah geschehen 
+lesen (liest) las gelesen 
+messen (misst) maß gemessen 
+sehen (sieht) sah gesehen 
+treten (tritt) trat getreten 
+vergessen (vergisst) vergaß vergessen 
+
+* Type 9
+* i -> a -> e
+
+bitten bat gebeten 
+liegen lag gelegen 
+sitzen saß gesessen 
+
+* Type 10
+* a -> u -> a
+
+backen (bäckt) buk/backte gebacken 
+fahren (fährt) fuhr gefahren 
+graben (gräbt) grub gegraben 
+laden (lädt) lud geladen 
+schaffen schuf geschaffen 
+schlagen (schlägt) schlug geschlagen 
+tragen (trägt) trug getragen 
+wachsen (wächst) wuchs gewachsen 
+waschen (wäscht) wusch gewaschen 
+
+* Type 11
+* e/ä/ü/ö -> o -> o
+
+erwägen erwog erwogen 
+flechten flocht geflochten 
+heben hob gehoben 
+lügen log gelogen 
+schmelzen (schmilzt) schmolz geschmolzen 
+
+* Type 12
+* 7 КЛАСС
+
+
+* Type 13
+* a -> ie -> a
+
+blasen (bläst) blies geblasen 
+braten (brät) briet gebraten 
+fallen (fällt) fiel gefallen 
+gefallen (gefällt) gefiel gefallen 
+halten (hält) hielt gehalten 
+lassen (lässt) ließ gelassen 
+raten (rät) riet geraten 
+schlafen (schläft) schlief geschlafen 
+
+* Type 14
+* a -> i -> a
+
+fangen (fängt) fing gefangen 
+hängen hing gehangen 
+
+* Type 15
+* au/ei/o/u -> ie -> au/ei/o/u
+
+hauen haute/hieb gehauen 
+heißen hieß geheißen 
+laufen (läuft) lief gelaufen 
+rufen rief gerufen 
+stoßen (stößt) stieß gestoßen 
+
+* Type 16
+* unregelmaßige Verben
+
+gehen ging gegangen 
+kommen kam gekommen 
+stehen stand gestanden 
+tun (tut) tat getan 
+
+* Type 17
+* behelfsmäßige Verben
+
+sein (ist) war gewesen 
+haben (hat) hatte gehabt 
+werden (wird) wurde geworden 
+
+* Type 18
+* gemischten Verben
+
+brennen brannte gebrannt 
+bringen brachte gebracht 
+denken dachte gedacht 
+kennen kannte gekannt 
+nennen nannte genannt 
+rennen rannte gerannt 
+senden sandte gesandt 
+wenden wandte gewandt 
+wissen (weiß) wusste gewusst 
+
+* Type 19
+* Modal Verben
+
+können (kann) konnte gekonnt 
+dürfen (darf) durfte gedurft 
+sollen (soll) sollte gesollt 
+müssen (muss) musste gemusst 
+wollen (will) wollte gewollt 
+mögen (mag) mochte gemocht 
