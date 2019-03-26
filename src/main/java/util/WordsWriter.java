@@ -7,9 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-/**
- * Created by Viktor on 07.07.17.
- */
+
 public class WordsWriter {
     public static void WriteWordsToFile(ArrayList<Verb> verbs, String path){
         FileWriter writer = null;

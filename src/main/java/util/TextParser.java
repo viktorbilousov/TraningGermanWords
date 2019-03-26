@@ -5,9 +5,7 @@ import game.Verb;
 import java.io.*;
 import java.util.ArrayList;
 
-/**
- * Created by Viktor on 07.07.17.
- */
+
 public class TextParser {
 
     public static void textNormalizator(String inputPath, String outputFile) {

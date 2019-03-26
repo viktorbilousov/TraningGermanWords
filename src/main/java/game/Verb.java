@@ -1,8 +1,10 @@
 package game;
 
-/**
- * Created by Viktor on 07.07.17.
- */
+import java.lang.reflect.Array;
+import java.util.Arrays;
+import java.util.Collections;
+
+
 public class Verb {
     private String inf = "";
     private String third = "";
@@ -42,20 +44,43 @@ public class Verb {
     }
 
     public Verb(String inf, String prat, String p2) {
-        this.inf = inf.toLowerCase();
+        this.inf = normalizateWord(inf.toLowerCase());
         this.prat = prat.toLowerCase();
         P2 = p2.toLowerCase();
         makeThirdForm();
     }
 
+
     public Verb(String inf, String third, String prat, String p2) {
-        this.inf = inf.toLowerCase();
-        this.third = third.toLowerCase();
+        this.inf = normalizateWord(inf.toLowerCase());
+        this.third = normalizateWord(third.toLowerCase());
         this.prat = prat.toLowerCase();
         this.P2 = p2.toLowerCase();
     }
 
+    public static Verb createEmptyVerb(){
+        return new Verb("","","","");
+    }
+
+    public String normalizateWord(String word){
+
+        int index = word.indexOf(776);
+
+        if(index != -1) {
+            Character newSymb = new Character(' ');
+            if (word.charAt(index - 1) == 'a') newSymb = 'ä';
+            if (word.charAt(index - 1) == 'o') newSymb = 'ö';
+            if (word.charAt(index - 1) == 'u') newSymb = 'ü';
+            word = word.substring(0, index-1) + newSymb + word.substring(index +1);
+        }
+
+        return word;
+    }
+
     private void makeThirdForm(){
+        if(inf.equals("wenden")){
+            hashCode();
+        }
         third = inf.substring(0,inf.length()-1);
 
         if(third.charAt(third.length()-1) == 'e')
@@ -111,6 +136,12 @@ public class Verb {
      */
     public static Verb parse(String line) {
         String[] words = line.split(" ");
+        for(int i=0; i < words.length ; i++){
+            if(words[i].charAt(0) == '(' || words[i].charAt(words[i].length()-1) == ')'){
+                words[i] = words[i].substring(1, words[i].length()-1);
+            }
+        }
+
         if (words.length == 4) {
             return new Verb(words[0], words[1], words[2], words[3]);
         } else if (words.length == 3) {

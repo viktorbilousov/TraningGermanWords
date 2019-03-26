@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="389.0" prefWidth="397.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="App.controller.SceneGameController">
+   <children>
+      <Label layoutX="57.0" layoutY="113.0" text="Infinitive" />
+      <TextField fx:id="textFieldInf" layoutX="133.0" layoutY="108.0" />
+      <TextField fx:id="textFieldThird" layoutX="133.0" layoutY="143.0" />
+      <Label layoutX="57.0" layoutY="148.0" text="Third Form" />
+      <Label layoutX="57.0" layoutY="185.0" text="Prateritum" />
+      <TextField fx:id="textFieldPrat" layoutX="133.0" layoutY="180.0" />
+      <Label layoutX="57.0" layoutY="219.0" text="Partizip 2" />
+      <TextField fx:id="textFieldP2" layoutX="133.0" layoutY="214.0" />
+      <Button fx:id="btnStop" layoutX="90.0" layoutY="313.0" mnemonicParsing="false" text="Stop " />
+      <Button fx:id="btnNext" layoutX="267.0" layoutY="313.0" mnemonicParsing="false" text="Next" />
+      <Label fx:id="labelCnt" layoutX="314.0" layoutY="43.0" text="1/20" />
+      <Label fx:id="labelAnswerCnt" layoutX="44.0" layoutY="43.0" text="WrongCnt" />
+      <Label fx:id="labelMessage" layoutX="180.0" layoutY="43.0" text="Message" />
+      <Button fx:id="btn_S" layoutX="86.0" layoutY="260.0" mnemonicParsing="false" text="ß" />
+      <Button fx:id="btn_U" layoutX="154.0" layoutY="260.0" mnemonicParsing="false" text="ü" />
+      <Button fx:id="btn_A" layoutX="222.0" layoutY="260.0" mnemonicParsing="false" text="ä" />
+      <Button fx:id="btn_O" layoutX="287.0" layoutY="260.0" mnemonicParsing="false" text="ö" />
+   </children>
+</AnchorPane>

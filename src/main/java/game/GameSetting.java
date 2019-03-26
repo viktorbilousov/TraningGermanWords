@@ -2,9 +2,7 @@ package game;
 
 import static game.GameSetting.OpenWord.*;
 
-/**
- * Created by Viktor on 07.07.17.
- */
+
 public final class GameSetting {
     public enum TypeSort {
         ALPHABET,

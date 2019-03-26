@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="401.0" prefWidth="478.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="App.controller.SceneStartController">
+   <opaqueInsets>
+      <Insets />
+   </opaqueInsets>
+   <children>
+      <Button layoutX="48.0" layoutY="125.0" mnemonicParsing="false" onAction="#onActionPlayBtn" prefHeight="152.0" prefWidth="178.0" text="Play" />
+      <Button layoutX="257.0" layoutY="123.0" mnemonicParsing="false" onAction="#onActionExitBtn" prefHeight="152.0" prefWidth="178.0" text="Exit" />
+      <Button layoutX="48.0" layoutY="289.0" mnemonicParsing="false" onAction="#onActionOpenDict" prefHeight="38.0" prefWidth="178.0" text="Open Dictionary From File" />
+      <Button layoutX="257.0" layoutY="289.0" mnemonicParsing="false" onAction="#onActionInputDic" prefHeight="38.0" prefWidth="178.0" text="Output Complete Dictionary" />
+   </children>
+</AnchorPane>

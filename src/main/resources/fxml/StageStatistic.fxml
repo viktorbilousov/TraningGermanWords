@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="210.0" prefWidth="382.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="App.controller.StageStatisticController">
+   <children>
+      <Button layoutX="85.0" layoutY="150.0" mnemonicParsing="false" onAction="#bntOnActionCancel" text="Cancel" />
+      <Button layoutX="234.0" layoutY="150.0" mnemonicParsing="false" onAction="#bntOnActionSave" text="Save" />
+      <Label layoutX="136.0" layoutY="47.0" text="Save statistic?" />
+      <ChoiceBox fx:id="chBoxSaveVar" layoutX="106.0" layoutY="86.0" prefWidth="150.0" />
+   </children>
+</AnchorPane>
