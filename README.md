@@ -10,7 +10,7 @@ Each verb has its own card, which contains 4 forms of this verb:
 * partizip 2 (gewesen)
  
 ### Play
-During the game, the player is shown one of the forms of the verb, and the player must write all the others. If he makes a mistake in at least one field, the attempt is considered unsuccessful.
+During the game, the player is shown one of the forms of the verb, and the player must write all the others. If he makes a mistake in at least one field, the attempt is marked as unsuccessful.
 
 ![](http://g.recordit.co/Bm2aGT5qWb.gif)
 
