@@ -270,7 +270,6 @@ public class Game {
         return false;
     }
 
-
     private void sortList(ArrayList<Verb> sortedList){
         if(setting.getTypeSort() == GameSetting.TypeSort.RANDOM){
             Collections.shuffle(sortedList);
